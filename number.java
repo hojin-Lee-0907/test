@@ -6,5 +6,16 @@ public class NumberPrint {
 
 	System.out.println(i+" ");
        } 
+	System.out.println(i+" ");
+	System.out.println(i+" ");
+	System.out.println(i+" ");
+	System.out.println(i+" ");
+	System.out.println(i+" ");
+	System.out.println(i+" ");
+	System.out.println(i+" ");
+	System.out.println(i+" ");
+	System.out.println(i+" ");
+	System.out.println(i+" ");
+	System.out.println(i+" ");
      }
 }
